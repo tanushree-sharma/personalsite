@@ -53,13 +53,13 @@
       {
         "title": "Cloudflare Blog",
         "category": "Exciting things in the works at Cloudflare!",
-        "image": "cf_logo.png",
+        "image": "cf_logo.jpg",
         "url": "https://blog.cloudflare.com/author/tanushree/"
       },
       {
         "title": "Spotify Analytics",
         "category": "My first (and  only) venture into web app dev.",
-        "image": "sp-analytics.png",
+        "image": "sp-analytics.jpg",
         "url": "https://spotify-user-analytics.herokuapp.com"
       }
     ]
