@@ -18,8 +18,8 @@ class Footer extends Component {
               {networks}
            </ul>
 
-           <ul className="copyright">
-              <li>&copy; Copyright 2017 Tim Baker</li>
+           <ul className="pages">
+              <li> ⚡️ Powered by Cloudflare Pages</li>
               <li>Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a></li>
            </ul>
 
